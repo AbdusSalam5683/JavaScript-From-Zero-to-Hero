@@ -91,7 +91,7 @@
 টার্মিনাল/কমান্ড প্রম্পট খুলে নিচের কমান্ডগুলো চালান (আপনার ইউজারনেম বসিয়ে):
 
 ```bash
-git clone https://github.com/<your-username>/javascript-from-zero-to-hero.git
+git clone https://github.com/AbdusSalam5683/JavaScript-From-Zero-to-Hero.git
 cd javascript-from-zero-to-hero
 
 javascript-from-zero-to-hero/
