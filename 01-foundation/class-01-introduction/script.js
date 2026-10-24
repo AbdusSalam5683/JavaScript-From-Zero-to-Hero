@@ -10,3 +10,6 @@ console.log("Hello from script.js!");
 let outputElement = document.getElementById("output");
 
 outputElement.textContent = "JavaScript has loaded successfully! 🎉";
+
+
+// test
